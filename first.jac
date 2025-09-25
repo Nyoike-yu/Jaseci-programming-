@@ -1,7 +1,4 @@
-def lovejac() -> str {
-    return 'With Jac python becomes even more awesome.';
-}
-
 with entry{
-  print(f'{Lovejac()}');  
+  print('Hello Jac world!');  
+
 }
